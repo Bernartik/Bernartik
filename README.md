@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there!
+
+Still thinking of what to put in the description.
+I like making games and art stuff.
 
 <!--
 **Bernartik/Bernartik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
